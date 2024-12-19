@@ -1,6 +1,6 @@
 # Sistema CRUD Empresarial - 2024
 
-Este é um projeto em PHP desenvolvido em 2024, durante o segundo ano do curso técnico em TI do Instituto Ivoti.
+Este é um projeto em PHP desenvolvido em 2024, durante o terceiro ano do curso técnico em TI do Instituto Ivoti.
 
 ## Sobre o Projeto
 
